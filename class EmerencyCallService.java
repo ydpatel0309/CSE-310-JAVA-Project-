@@ -10,7 +10,7 @@ interface EmerencyService
 abstract class Service 
 {
     String name;
-    long Monumber;
+    long Mnumber;
     String address;
     
     void Notifaction()
